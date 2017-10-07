@@ -1,2 +1,2 @@
-# leetcode_problems
-solutions to leet-code problems
+# Solutions to Competitive Programming
+* leetcode
